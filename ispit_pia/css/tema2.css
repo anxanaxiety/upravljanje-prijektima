@@ -1,0 +1,22 @@
+.bg-2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+      url("../img/pexels-fauxels-3184464.webp");
+}
+
+.bg-light {
+  background-color: hsl(23, 67%, 83%) !important;
+}
+
+.bar-pretrage {
+  background-color: white;
+  color: #664835;
+}
+
+.bar-pretrage input {
+  color: #664835;
+}
+
+.username {
+  background: linear-gradient(161.74deg, #6648359b 8.44%, rgba(251, 231, 176, 0) 91.81%);
+  border: 1px solid #664835;
+}
